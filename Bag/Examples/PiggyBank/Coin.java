@@ -1,9 +1,10 @@
-/** 
-    A class that represents a coin.
-    @author Frank M. Carrano
-    @author Timothy M. Henry
-    @version 5.0
-*/
+/**
+ * A class that represents a coin.
+ * 
+ * @author Frank M. Carrano
+ * @author Timothy M. Henry
+ * @version 5.0
+ */
 public class Coin
 {
    private enum CoinSide {HEADS, TAILS}

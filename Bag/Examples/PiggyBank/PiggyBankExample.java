@@ -1,8 +1,9 @@
 /**
-    A class that demonstrates the class PiggyBank.
-    @author Frank M. Carrano, Timothy M. Henry
-    @version 5.0
-*/
+ * A class that demonstrates the class PiggyBank.
+ * 
+ * @author Frank M. Carrano, Timothy M. Henry
+ * @version 5.0
+ */
 public class PiggyBankExample
 {
 	public static void main(String[] args) 
